@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=3.3VÅÅÕë½Ó¿Ú NewDesignator=3.3V
+Change Component Designator: OldDesignator=5VÅÅÕë½Ó¿Ú NewDesignator=5V
+Change Component Designator: OldDesignator=DC²å×ù NewDesignator=DC_IN
+Change Component Designator: OldDesignator=ÅÅÄ¸2.0mm NewDesignator=RTK
+Added Pin To Net: NetName=3.3V Pin=3.3V-3
+Added Pin To Net: NetName=5V Pin=5V-3
+Change Net Name : Old Net Name=NetDC²å×ù_1 New Net Name=NetDC_IN_1
+Added Room: Name=AdaptWing

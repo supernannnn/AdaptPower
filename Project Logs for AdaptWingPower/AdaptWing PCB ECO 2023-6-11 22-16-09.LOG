@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=GND Pin=3.3V-4
+Added Pin To Net: NetName=GND Pin=3.3V-6
+Added Pin To Net: NetName=GND Pin=5V-4
+Added Pin To Net: NetName=GND Pin=5V-6
+Added Member To Class: ClassName=AdaptWing Member=Component 3.3V
+Added Member To Class: ClassName=AdaptWing Member=Component 5V

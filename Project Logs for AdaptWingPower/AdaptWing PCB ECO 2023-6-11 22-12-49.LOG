@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=DC_IN NewDesignator=DC²å×ù
+Added Pin To Net: NetName=GND Pin=3.3V-3
+Added Pin To Net: NetName=GND Pin=5V-3
+Change Net Name : Old Net Name=NetDC_IN_1 New Net Name=NetDC²å×ù_1
+Added Member To Class: ClassName=AdaptWing Member=Component DC²å×ù
