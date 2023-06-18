@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C6 Old Footprint=CAP-TH_BD5.0-P2.00-D0.5-FD-1 New Footprint=CAP-SMD_BD6.3-L6.6-W6.6-FD
+Change Component Footprint: Designator=C9 Old Footprint=CAP-TH_BD5.0-P2.00-D0.5-FD-1 New Footprint=CAP-SMD_BD6.3-L6.6-W6.6-FD
+Change Component Footprint: Designator=C5 Old Footprint=CAP-TH_BD6.3-P2.50-D0.5-FD New Footprint=CAP-SMD_BD6.3-L6.6-W6.6-LS7.4-FD
+Change Component Footprint: Designator=C2 Old Footprint=CAP-TH_BD8.0-P3.50-D1.0-FD New Footprint=CAP-SMD_BD8.0-L8.3-W8.3-FD
+Change Component Footprint: Designator=C1 Old Footprint=CAP-TH_BD10.0-P5.00-D1.0-FD New Footprint=CAP-SMD_BD8.0-L8.3-W8.3-FD
